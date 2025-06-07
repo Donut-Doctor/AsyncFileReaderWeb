@@ -1,0 +1,2 @@
+Hello from example.txt!
+This file was read using modern async/await in Node.js.
